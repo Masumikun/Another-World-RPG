@@ -23,7 +23,7 @@
 〘🔪〙Intimidação ➺ 0/6<br>
 〘🤍〙Intuição ➺ 0/6<br>
 〘🥼〙Medicina ➺ 0/6<br>
-〘👣〙Percepção ➺ 0/6<br>
+〘🔍〙Percepção ➺ 0/6<br>
 〘🎨〙Performance ➺ 0/6<br>
 〘💠〙Religião ➺ 0/6<br>
 〘🍀〙Sobrevivência ➺ 0/6<br>
