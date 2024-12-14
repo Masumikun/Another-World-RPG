@@ -1,3 +1,5 @@
+[Tutorial](https://github.com/Masumikun/Another-World-RPG-/blob/a357f1a904161ebe04fe2a7ad283b076c98ac2f6/Systems/Function.md)
+
 # Parâmetros
 > Distribuir 7 pontos 
 
