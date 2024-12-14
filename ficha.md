@@ -30,3 +30,8 @@
 〘💻〙Tecnologia ➺ 0/6<br>
 〘♥️〙Vontade ➺ 0/6
 
+## Maestria
+> Escolher duas diferentes
+
+
+[Lista de todas](https://github.com/Masumikun/Another-World-RPG-/blob/b511a84133d0ddd5e162e839086138584469161b/Systems/Maestrias.md)
