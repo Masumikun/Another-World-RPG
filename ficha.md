@@ -28,7 +28,7 @@
 〘💠〙Religião ➺ 0/6<br>
 〘🍀〙Sobrevivência ➺ 0/6<br>
 〘💻〙Tecnologia ➺ 0/6<br>
-〘♥️〙Vontade ➺ 0/6
+〘🪽〙Vontade ➺ 0/6
 
 ## Maestria
 > Escolher duas diferentes
