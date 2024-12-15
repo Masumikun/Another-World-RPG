@@ -12,13 +12,9 @@ Geralmente o tempo de rodadas tem cada turno por jogador depois de completar seu
 
 ## ❨🌡️❩⩾  Temperaturas
 Calor extremo (46º a 90º graus em diante)
-
 Calor elevado (31º a 45º graus)
-
 Neutra (0º a 30º graus)
-
 Frio elevado (-1º a -20º graus)
-
 Frio extremo (-21º a -91º graus em diante)
 
 ## ❨🌡️❩⩾ Ambiente
