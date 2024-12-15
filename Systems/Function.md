@@ -76,7 +76,7 @@ Você utiliza o seu valor total de **Espírito** em testes para lidar com seres 
 <br>
 
 ---
-〘👣〙Percepção ➺ O quão aguçados são os seus sentidos terrenos, tornando-o mais alerta. Você utiliza o seu valor total de **Percepção** em testes para procurar um ser ou objeto, se manter desperto em vigília, notar detalhes etc.
+〘🔍〙Percepção ➺ O quão aguçados são os seus sentidos terrenos, tornando-o mais alerta. Você utiliza o seu valor total de **Percepção** em testes para procurar um ser ou objeto, se manter desperto em vigília, notar detalhes etc.
 <br>
 
 ---
@@ -96,4 +96,4 @@ Você utiliza o seu valor total de **Espírito** em testes para lidar com seres 
 <br>
 
 ---
-〘♥️〙Vontade ➺ A sua resistência mental e moral contra o estresse gerado por situações angustiantes. Você utiliza o seu valor total de **Vontade** em testes para se manter calmo, permanecer firme diante do medo ou ameaça, não ceder ao desespero etc.
+〘🐾〙Vontade ➺ A sua resistência mental e moral contra o estresse gerado por situações angustiantes. Você utiliza o seu valor total de **Vontade** em testes para se manter calmo, permanecer firme diante do medo ou ameaça, não ceder ao desespero etc.
