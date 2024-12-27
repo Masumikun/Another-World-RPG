@@ -1,7 +1,31 @@
-[Tutorial](https://github.com/Masumikun/Another-World-RPG-/blob/a357f1a904161ebe04fe2a7ad283b076c98ac2f6/Systems/Function.md)
+## 〘➖〙Basic
+Jogador ➺ 
+Personagem ➺ 
+Legado ➺ 
+Nível ➺ 1
+
+〘❤️〙Pontos de Vida
+> 30 pts + 1d6 ou 3 + Vitalidade
+
+Máximo│ 
+Atual│ 
+Temporário│ 
+
+〘🌟〙Pontos de Energia
+> 5 pts
+
+Máximo│ 5
+Atual│ 5
+Temporário│ 2
+
+〘💤〙Exaustão│◇◇◇◇◇◇
+〘⬜〙Movimentação│2 Agilidade = +1│➺ 6
+〘🛡️〙Bloqueio│Armadura + Escudo│➺ +0
+
+Idiomas ➺ Pode escolher
 
 # Parâmetros
-> Distribuir 7 pontos 
+> Distribuir 7 pontos, apenas 2 pontos no mesmo parâmetros
 
 〘❤️〙Vitalidade ➺ 0/6
 〘👟️〙Agilidade ➺ 0/6
@@ -13,7 +37,7 @@
 〘🙏〙Espírito ➺ 0/6
 
 # Conhecimentos
-> Distribuir 7 pontos
+> Distribuir 7 pontos, apenas 2 pontos no mesmo conhecimento
 
 〘💬〙Carisma ➺ 0/6
 〘🔮〙Con. Místico ➺ 0/6
@@ -32,6 +56,3 @@
 
 ## Maestria
 > Escolher duas diferentes
-
-[Lista de todas](https://github.com/Masumikun/Another-World-RPG-/blob/b511a84133d0ddd5e162e839086138584469161b/Systems/Maestrias.md)
-
