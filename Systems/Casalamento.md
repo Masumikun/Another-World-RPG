@@ -1,8 +1,13 @@
-# Temperaturas
+# ❨🌡️❩⩾ Temperaturas
 Todos os ambientes cada passa por um processo durante os períodos de temperaturas do ambiente cada um sofre vontades sexuais de envolver com seus parceiros.
 
-## Período sexual
+## ❨🔥❩⩾ Período sexual
 Durante esse período pode ocorrer de você fica com vontade sexual, isso depende do quanto você quer realmente uma vontade sexual com outros seres independente do tempo de cada um isso muda própria dopina que gasta.
+<a href="System/Casalamento/function_sexy.md">
+    Periodo Sexual
+</a>
+
+
 - Humanos
   Sendo humano você tem genética de ter filhos com essas raças tento um híbrido por terem mesma genética
   - Anjos
@@ -16,7 +21,7 @@ Durante esse período pode ocorrer de você fica com vontade sexual, isso depend
 
 Etc...
 
-## Possibilidade
+## ❨🎲❩⩾ Possibilidade
 Como toda raça todos deverão jogar o *1d100*, esse será o dado para definir as possibilidades adequadas para um resultado de forma que possa definir se tem ou não um filho.
 
 - 1 a 25 (Não tem filhos)
