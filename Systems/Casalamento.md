@@ -3,10 +3,8 @@ Todos os ambientes cada passa por um processo durante os períodos de temperatur
 
 ## ❨🔥❩⩾ Período sexual
 Durante esse período pode ocorrer de você fica com vontade sexual, isso depende do quanto você quer realmente uma vontade sexual com outros seres independente do tempo de cada um isso muda própria dopina que gasta.
-<a href="System/Casalamento/function_sexy.md">
-    Periodo Sexual
-</a>
 
+[Medicamentos](https://github.com/Masumikun/Another-World-RPG/blob/0a11762ebce823ec31e923ea71d412679735aee3/Systems/Casalamento/function_sexy.md)
 
 - Humanos
   Sendo humano você tem genética de ter filhos com essas raças tento um híbrido por terem mesma genética
