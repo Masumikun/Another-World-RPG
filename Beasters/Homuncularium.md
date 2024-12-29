@@ -1,4 +1,5 @@
 Tabela de criação de Homuncularium
+
 | Dificuldade | PV | PE | Poder | Parâmetros | Características |
 | --- | --- | --- | --- | --- | --- |
 | Fácil | 25 | 2 | 1 | 2 | 2 |
