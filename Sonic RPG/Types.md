@@ -28,12 +28,13 @@
 	- Brutalidade
 	- Vitalidade
 	- Intimidação
-	- Tamanho maior que seu em combate
+	- Categoria de Tamanho
 
 - Desvantagens
 	- Agilidade
 	- Destreza
 	- Lentidão
+	- Arcanismo
 
 ❨⚪❩⩾ Type Balance
 - Vantages
