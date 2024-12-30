@@ -3,52 +3,32 @@
 # Parâmetros
 > Distribuir 7 pontos 
 
-〘❤️〙Vitalidade ➺ 0/6
-
-〘👟️〙Agilidade ➺ 0/6
-
-〘🎯〙Precisão ➺ 0/6
-
-〘💪〙Brutalidade ➺ 0/6
-
-〘🤹‍♂️〙Destreza ➺ 0/6
-
-〘🪄〙Canalização ➺ 0/6
-
-〘🧙‍♂️〙Arcanismo ➺ 0/6
-
-〘🙏〙Espírito ➺ 0/6
+〘❤️〙Vitalidade ➺ 0/6<br>
+〘👟️〙Agilidade ➺ 0/6<br>
+〘🎯〙Precisão ➺ 0/6<br>
+〘💪〙Brutalidade ➺ 0/6<br>
+〘🤹‍♂️〙Destreza ➺ 0/6<br>
+〘🪄〙Canalização ➺ 0/6<br>
+〘🧙‍♂️〙Arcanismo ➺ 0/6<br>
+〘🙏〙Espírito ➺ 0/6<br>
 
 # Conhecimentos
 > Distribuir 7 pontos
 
-〘💬〙Carisma ➺ 0/6
-
-〘🔮〙Con. Místico ➺ 0/6
-
-〘🗺️〙Exploração ➺ 0/6
-
-〘🥷〙Furtividade ➺ 0/6
-
-〘📖〙História ➺ 0/6
-
-〘🔪〙Intimidação ➺ 0/6
-
-〘🤍〙Intuição ➺ 0/6
-
-〘🥼〙Medicina ➺ 0/6
-
-〘🔍〙Percepção ➺ 0/6
-
-〘🎨〙Performance ➺ 0/6
-
-〘💠〙Religião ➺ 0/6
-
-〘🍀〙Sobrevivência ➺ 0/6
-
-〘💻〙Tecnologia ➺ 0/6
-
-〘🪽〙Vontade ➺ 0/6
+〘💬〙Carisma ➺ 0/6<br>
+〘🔮〙Con. Místico ➺ 0/6<br>
+〘🗺️〙Exploração ➺ 0/6<br>
+〘🥷〙Furtividade ➺ 0/6<br>
+〘📖〙História ➺ 0/6<br>
+〘🔪〙Intimidação ➺ 0/6<br>
+〘🤍〙Intuição ➺ 0/6<br>
+〘🥼〙Medicina ➺ 0/6<br>
+〘🔍〙Percepção ➺ 0/6<br>
+〘🎨〙Performance ➺ 0/6<br>
+〘💠〙Religião ➺ 0/6<br>
+〘🍀〙Sobrevivência ➺ 0/6<br>
+〘💻〙Tecnologia ➺ 0/6<br>
+〘🪽〙Vontade ➺ 0/6<br>
 
 ## Maestria
 > Escolher duas diferentes
